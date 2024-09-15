@@ -1,0 +1,8 @@
+Inputs: a=1.0, b=2.0, c=3.0
+The equation has no real roots
+Inputs: a=5.0, b=6.0, c=4.0
+The equation has no real roots
+Inputs: a=1.0, b=2.0, c=1.0
+Outputs: x1=-1.0, x2=-1.0
+Inputs: a=1.0, b=2.0, c=3.0
+The equation has no real roots
